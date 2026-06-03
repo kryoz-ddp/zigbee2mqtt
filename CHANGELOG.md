@@ -1,5 +1,22 @@
 # Changelog
 
+## [2.12.0](https://github.com/Koenkk/zigbee2mqtt/compare/2.11.0...2.12.0) (2026-06-03)
+
+
+### Features
+
+* Add ability to abort running OTA ([#32022](https://github.com/Koenkk/zigbee2mqtt/issues/32022)) ([de58711](https://github.com/Koenkk/zigbee2mqtt/commit/de58711e11a5ca07c5b55a0c17a1d9f3f452c110))
+
+
+### Bug Fixes
+
+* **ignore:** bump the minor-patch group with 2 updates ([#32183](https://github.com/Koenkk/zigbee2mqtt/issues/32183)) ([ef8dcb4](https://github.com/Koenkk/zigbee2mqtt/commit/ef8dcb4dc2800defd97fda7523297eab8d2566dc))
+* **ignore:** missing type for new OTA endpoint ([#32195](https://github.com/Koenkk/zigbee2mqtt/issues/32195)) ([6c2c874](https://github.com/Koenkk/zigbee2mqtt/commit/6c2c874641ada9cae1c9bdd963a3201cb1cf0fef))
+* **ignore:** update zigbee-herdsman to 10.2.0 ([#32179](https://github.com/Koenkk/zigbee2mqtt/issues/32179)) ([f9e1bac](https://github.com/Koenkk/zigbee2mqtt/commit/f9e1bac588e65b223e75f4a2b2e9d528933fdbd8))
+* **ignore:** update zigbee-herdsman to 10.3.0 ([#32193](https://github.com/Koenkk/zigbee2mqtt/issues/32193)) ([ea6ccac](https://github.com/Koenkk/zigbee2mqtt/commit/ea6ccac9380af1d9f5672174b2545409f36c2769))
+* **ignore:** update zigbee-herdsman-converters to 26.61.2 ([#32180](https://github.com/Koenkk/zigbee2mqtt/issues/32180)) ([babf7a1](https://github.com/Koenkk/zigbee2mqtt/commit/babf7a17d4617217297eef45f6b8307265f9b921))
+* **ignore:** update zigbee-herdsman-converters to 26.62.0 ([#32194](https://github.com/Koenkk/zigbee2mqtt/issues/32194)) ([120f6ac](https://github.com/Koenkk/zigbee2mqtt/commit/120f6ac779c9fda6914fc68c56674e589c0e82ba))
+
 ## [2.11.0](https://github.com/Koenkk/zigbee2mqtt/compare/2.10.1...2.11.0) (2026-06-01)
 
 
